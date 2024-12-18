@@ -22,7 +22,7 @@ export default function Home() {
           <li className="mb-2">Documentation</li>
         </ol>
 
-        <h3 className=''>Please contact us regarding other IT services, 
+        <h3 className='text-white'>Please contact us regarding other IT services, 
                     <br/>We love to take on new challenges</h3>
       </main>
 
