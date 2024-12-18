@@ -8,7 +8,7 @@ export default function Home() {
 
         <h1 className="text-center text-xl">Web Development Process</h1>
 
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
+        <ol className="list-inside list-decimal text-sm text-center md:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">Requirements Gathering</li>
           <li className="mb-2">Plan / Strategy</li>
           <li className="mb-2">UX / UI Design</li>
